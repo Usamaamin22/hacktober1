@@ -30,8 +30,8 @@
 
 .header{
 	border: 0px solid #dedede;
-	padding: 10px;
-	margin: 10px;
+	padding: 12px;
+	margin: 12px;
 }
 
 
@@ -42,7 +42,7 @@
 		background: #e5e5e5;
 		padding: 10px;
 		margin: 10px;
-		float: left;
+		float: right;
 	}
 		.left img{
 			max-width: 100%;
